@@ -1,4 +1,4 @@
-# Projet_Cybersecurite_BUT_Brno
+# Project_Cybersecurity_BUT_Brno
 
 During my studies in Brno University Technology (BUT - Czech Republic), i had the chance to do a project about setting up a virtual machine full of vulnerability and show how to exploit them.
 
